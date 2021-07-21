@@ -22,7 +22,7 @@ export default {
   target: "static",
 
   router: {
-    base: "/",
+    base: "/prd",
     middleware: "pageTransition",
   },
 
